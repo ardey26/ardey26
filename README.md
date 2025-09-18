@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 Some Projects I Love
-
-- [alphagrowth/alphagrowth](https://github.com/alphagrowth/alphagrowth)
-- [Fortress-Enterprises/bazaar-web](https://github.com/Fortress-Enterprises/bazaar-web)
-- [BTC-Liquidations-Script](https://github.com/ardey26/BTC-Liquidations-Script)
-- [ml_notebooks](https://github.com/ardey26/ml_notebooks)
-
----
-
 ### 💬 Quote I Live By
 
 > <i>Statistics is the art of being wrong with confidence.</i>
