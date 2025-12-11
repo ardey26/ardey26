@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andre! 👋</h1>
 <p align="center">
   <b>Software Engineer & Data Scientist</b> <br>
-  <em>Building at the intersection of fintech, AI, and unconventional tech</em>
+  <em>Building at the intersection of Blockchain and AI</em>
 </p>
 
 ---
