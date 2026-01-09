@@ -10,7 +10,7 @@
 
 - **Profession:** Software Engineer & Data Scientist
 - **Top Skills:** Frontend Development, Data Engineering, Machine Learning, Automation
-- **Passions:** Fintech, Open Source, AI, Frontend, Unconventional Tech
+- **Passions:** Fintech, Open Source, AI, Frontend
 
 ---
 
