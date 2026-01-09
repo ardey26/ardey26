@@ -38,7 +38,7 @@
 
 ### 🌐 Connect With Me
 
-- 🐦 [@andre_ag](https://twitter.com/andre_ag) on Twitter/X
+- 🐦 [@eigendeus](https://x.com/eigendeus) on Twitter/X
 - 🌎 [andeus.dev](https://andeus.dev)
 
 ---
