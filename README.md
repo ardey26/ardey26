@@ -30,12 +30,6 @@
 
 ---
 
-### 💬 Quote I Live By
-
-> <i>Statistics is the art of being wrong with confidence.</i>
-
----
-
 ### 🌐 Connect With Me
 
 - 🐦 [@eigendeus](https://x.com/eigendeus) on Twitter/X
